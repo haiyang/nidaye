@@ -9,7 +9,7 @@ public class FamilyTitle {
 
 	public void addRelationship(RelationshipType r) {
 		relationshipTypes.add(r);
-	}	
+	}
 
 	/**
 	 * eg:Œ“ «ƒ„±Ì∏Á
